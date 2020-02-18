@@ -4,4 +4,4 @@ Using SVM to classify digits <br>
 You can simply change these settings in the code.
 <br>
 <br>
-Dataset will be provided soon.
+
