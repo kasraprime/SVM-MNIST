@@ -1,3 +1,4 @@
+%Load the dataset using your MNIST_digit_data.m code so that you can load dataset however you want.
 load MNIST_digit_data
 
 train_scale = size(images_train);
